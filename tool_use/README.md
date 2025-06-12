@@ -10,7 +10,6 @@
 * [完整的工具使用工作流程](./04_complete_workflow.ipynb)
 * [工具选择](./05_tool_choice.ipynb)
 * [使用多个工具构建聊天机器人](./06_chatbot_with_multiple_tools.ipynb)
-*
 
 ---
 
