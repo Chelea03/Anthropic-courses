@@ -1,25 +1,25 @@
-# 欢迎来到Anthropic的提示工程互动教程
+# 欢迎来到 Anthropic 的提示工程互动教程
 
 ## 课程介绍与目标
 
-本课程旨在为您提供关于如何在Claude中设计最优提示的全面分步理解。
+本课程旨在为您提供关于如何在 Claude 中设计最优提示的全面分步理解。
 
 **完成本课程后，您将能够**：
 
 - 掌握良好提示的基本结构
 - 识别常见的失败模式，并学习“80/20”技术来解决它们
-- 理解Claude的优势和劣势
+- 理解 Claude 的优势和劣势
 - 从零开始为常见用例构建强大的提示
 
 ## 课程结构与内容
 
-本课程的结构旨在为您提供大量练习编写和排查提示的机会。课程分为**9个章节，并附带配套练习**，以及一个包含更高级方法的附录。建议您**按章节顺序学习本课程**。
+本课程的结构旨在为您提供大量练习编写和排查提示的机会。课程分为**9 个章节，并附带配套练习**，以及一个包含更高级方法的附录。建议您**按章节顺序学习本课程**。
 
-**每节课底部都有一个“示例演练场”区域**，您可以在其中自由地尝试课程中的示例，亲身体验改变提示如何改变Claude的响应。此外，还有一个[答案](https://docs.google.com/spreadsheets/d/1jIxjzUWG-6xBVIa2ay6yDpLye0Oh_hR_ZB75a47KX_E/edit?usp=sharing)。
+**每节课底部都有一个“示例演练场”区域**，您可以在其中自由地尝试课程中的示例，亲身体验改变提示如何改变 Claude 的响应。此外，还有一个[答案](https://docs.google.com/spreadsheets/d/1jIxjzUWG-6xBVIa2ay6yDpLye0Oh_hR_ZB75a47KX_E/edit?usp=sharing)。
 
-注意：本教程使用的是我们最小、最快、最经济的模型——Claude 3 Haiku。Anthropic还有[另外两个模型](https://docs.anthropic.com/claude/docs/models-overview)，Claude 3 Sonnet和Claude 3 Opus，它们比Haiku更智能，其中Opus是智能程度最高的。
+注意：本教程使用的是我们最小、最快、最经济的模型——Claude 3 Haiku。Anthropic 还有[另外两个模型](https://docs.anthropic.com/claude/docs/models-overview)，Claude 3 Sonnet 和 Claude 3 Opus，它们比 Haiku 更智能，其中 Opus 是智能程度最高的。
 
-*本教程也存在于[使用Anthropic的Claude for Sheets扩展的Google Sheets](https://docs.google.com/spreadsheets/d/19jzLgRruG9kjUQNKtCg1ZjdD6l6weA6qRXG5zLIAhC8/edit?usp=sharing)上。我们建议使用该版本，因为它更用户友好。*
+*本教程也存在于[使用 Anthropic 的 Claude for Sheets 扩展的 Google Sheets](https://docs.google.com/spreadsheets/d/19jzLgRruG9kjUQNKtCg1ZjdD6l6weA6qRXG5zLIAhC8/edit?usp=sharing)上。我们建议使用该版本，因为它更用户友好。*
 
 准备好开始时，请前往“`01_Basic Prompt Structure`”继续。
 
@@ -39,7 +39,7 @@
 
 - **第四章：** 将数据与指令分离
 
-- **第五章：** 格式化输出和为Claude发言
+- **第五章：** 格式化输出和为 Claude 发言
 
 - **第六章：** 预认知（逐步思考）
 
